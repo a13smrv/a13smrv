@@ -1,11 +1,3 @@
-## 👨🏻‍💻 About Me
-🇨🇭 I'm in Switzerland and looking for new connections and opportunities<br>
-🔭 Currently working on my portfolio<br>
-🌱 Currently learning JavaScript and technologies based on it<br>
-💬 Happy to connect with you on [LinkedIn](https://linkedin.com/in/a13smrv)<br>
-⚡ Fun fact. In the German-speaking part of Switzerland, even if you feel like a superhero on a German course, going out into the city - the value of your knowledge tends to be zero
-
-
 ## 🗣️ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a13smrv)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?logo=github&logoColor=white)](https://github.com/a13smrv)
